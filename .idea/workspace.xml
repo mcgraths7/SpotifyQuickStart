@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-api-auth-examples/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -24,7 +24,67 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-api-auth-examples/authorization_code/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-786">
+              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-api-auth-examples/client_credentials/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-api-auth-examples/implicit_grant/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-api-auth-examples/authorization_code/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1303">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>querystring</find>
+      <find>var</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>queryString</replace>
+      <replace>let</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web-api-auth-examples/authorization_code/app.js" />
+        <option value="$PROJECT_DIR$/web-api-auth-examples/client_credentials/app.js" />
+        <option value="$PROJECT_DIR$/web-api-auth-examples/implicit_grant/app.js" />
+        <option value="$PROJECT_DIR$/web-api-auth-examples/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -73,6 +133,38 @@
               <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
               <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpotifyQuickStart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="authorization_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotifyQuickStart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="authorization_code" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotifyQuickStart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client_credentials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotifyQuickStart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="implicit_grant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpotifyQuickStart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpotifyQuickStart" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api-auth-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="implicit_grant" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -114,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523366237044</updated>
-      <workItem from="1523366238250" duration="256000" />
+      <workItem from="1523366238250" duration="1360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256000" />
+    <option name="totallyTimeSpent" value="1360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
@@ -158,6 +250,38 @@
     <entry file="file://$PROJECT_DIR$/web-api-auth-examples/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api-auth-examples/authorization_code/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-786">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api-auth-examples/client_credentials/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api-auth-examples/implicit_grant/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api-auth-examples/authorization_code/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1303">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
